@@ -1,0 +1,23 @@
+{
+  "name": "NR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nr.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelDeonDsouza/My_React_Native_Comments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelDeonDsouza/My_React_Native_Comments/issues"
+  },
+  "homepage": "https://github.com/JoelDeonDsouza/My_React_Native_Comments#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
